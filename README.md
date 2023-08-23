@@ -8,5 +8,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java-script"/>
 <br>
 <h3>✔️Imagens do Projeto:</h3>
+<h4>🖥️ WEB</h4>
 <img src="https://github.com/carolinacubass/projeto-instagram/blob/master/foto-projeto1.png" alt="foto-projeto1"/>
 <img src="https://github.com/carolinacubass/projeto-instagram/blob/master/foto-projeto2.png" alt="foto-projeto2"/>
