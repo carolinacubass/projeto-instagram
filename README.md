@@ -12,4 +12,4 @@
 <img src="https://github.com/carolinacubass/projeto-instagram/blob/master/foto-projeto1.png" alt="foto-projeto1"/>
 <img src="https://github.com/carolinacubass/projeto-instagram/blob/master/foto-projeto2.png" alt="foto-projeto2"/>
 <h4>🎥 VIDEO</h4>
-https://github.com/carolinacubass/projeto-instagram/blob/master/video/instagram-video.mp4
+https://github.com/carolinacubass/projeto-instagram/assets/100492943/8ee13f19-74e6-4732-8f9e-dc0f3d6d1e42
